@@ -75,10 +75,6 @@ These examples are intended to:
 * Serve as educational material for understanding data analysis techniques in a support context.
 * Offer practical solutions for common challenges faced in enterprise SaaS support.
 
-## 📜 Licence
-
-Please refer to the LICENCE file in this repository for information on usage rights and limitations. (Assuming you might add one - if not, this line can be removed).
-
 ---
 
 We hope you find these examples useful!
